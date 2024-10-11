@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MOJO Bar - Choose Language</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <style>
+        /* Styling for the language selection page */
+        body {
+            font-family: 'Noto Sans TC', Arial, sans-serif;
+            background-color: white;
+            color: #3f2e2d;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        .language-container {
+            text-align: center;
+        }
+
+        .logo-img {
+            max-width: 200px;
+            height: auto;
+            margin-bottom: 40px;
+        }
+
+        h1 {
+            font-size: 2em;
+            color: #C93E2E;
+            margin-bottom: 30px;
+        }
+
+        .language-buttons {
+            display: flex;
+            justify-content: center;
+            gap: 20px; /* Add space between buttons */
+        }
+
+        .language-button {
+            display: inline-flex;
+            justify-content: center;
+            align-items: center;
+            padding: 15px;
+            width: 200px; /* Set a fixed width */
+            height: 60px; /* Set a fixed height */
+            border: 2px solid #C93E2E;
+            border-radius: 10px;
+            background-color: white;
+            color: #C93E2E;
+            font-size: 1.2em;
+            text-decoration: none;
+            transition: background-color 0.3s, color 0.3s;
+        }
+
+        .language-button:hover {
+            background-color: #C93E2E;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <div class="language-container">
+        <img src="assets/logo.png" alt="MOJO Bar Logo" class="logo-img">
+        <h1>Select Language</h1>
+        <div class="language-buttons">
+            <a href="en/index.html" class="language-button">English</a>
+            <a href="zh/index.html" class="language-button">中文 (Chinese)</a>
+        </div>
+    </div>
+</body>
+</html>
