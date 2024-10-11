@@ -6,7 +6,7 @@ function createCocktailGallery(cocktails) {
     cocktailDiv.innerHTML = `
           <img src="img/${cocktail.image}" alt="${cocktail.name}">
           <h2>${cocktail.name}</h2>
-          <p>${cocktail.description}</p>
+          <p>${cocktail.flavorProfile}</p>
       `;
     // Add click event to redirect to cocktail-template.html with cocktail index in URL
     cocktailDiv.addEventListener("click", () => {

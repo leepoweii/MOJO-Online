@@ -6,7 +6,7 @@ const cocktails = [
     flavorProfile: "Citrusy and Floral",
     storyBehind:
       "<p>Gugang Village in Kinmen is home to the picturesque Gugang Lake...</p>",
-    description: "Marigold/ Jasmine Tea/ Honey",
+    price: "Marigold/ Jasmine Tea/ Honey",
   },
   // Add more cocktails...
 ];
@@ -22,13 +22,12 @@ function displayCocktailDetails(cocktail) {
   document.getElementById("cocktailTitle").textContent = cocktail.name;
 
   // Set the cocktail image
-  document.getElementById("cocktailImage").src = cocktail.image;
+  document.getElementById("cocktailImage").src = "img" + cocktail.image;
   document.getElementById("cocktailImage").alt = cocktail.name;
 
   // Set other cocktail details
   document.getElementById("flavorProfile").textContent = cocktail.flavorProfile;
-  document.getElementById("storyBehind").innerHTML = cocktail.storyBehind;
-  document.getElementById("description").textContent = cocktail.description;
+  document.getElementById("price").textContent = cocktail.price;
 }
 
 function loadCocktailDetails() {
