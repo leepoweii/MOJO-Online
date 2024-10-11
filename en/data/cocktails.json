@@ -7,13 +7,6 @@
     "price": "360"
   },
   {
-    "name": "Miss 56",
-    "image": "/miss56.jpg",
-    "flavorProfile": "Citrus / Lychee / Peach",
-    "storyBehind": "A refreshing fruity experience.",
-    "price": "320"
-  },
-  {
     "name": "The Gentleman",
     "image": "/gentleMan.jpg",
     "flavorProfile": "Kaoliang / Citrus / Rosemary",
@@ -21,18 +14,25 @@
     "price": "360"
   },
   {
-    "name": "Wendy’s Ex",
-    "image": "/wendysEx.jpg",
-    "flavorProfile": "Earl Grey Vodka / Plum / Tonic Water",
-    "storyBehind": "A unique twist on a tea-based cocktail.",
-    "price": "320"
-  },
-  {
     "name": "Rouge of Yanan",
     "image": "/rougeOfYanan.jpg",
     "flavorProfile": "Kaoliang / Citrus / Quinine",
     "storyBehind": "A refreshing yet slightly bitter blend.",
     "price": "360"
+  },
+  {
+    "name": "Miss 56",
+    "image": "/miss56.jpg",
+    "flavorProfile": "Citrus / Lychee / Peach",
+    "storyBehind": "A refreshing fruity experience.",
+    "price": "320"
+  },
+  {
+    "name": "Wendy’s Ex",
+    "image": "/wendysEx.jpg",
+    "flavorProfile": "Earl Grey Vodka / Plum / Tonic Water",
+    "storyBehind": "A unique twist on a tea-based cocktail.",
+    "price": "320"
   },
   {
     "name": "Sigur Eyes",

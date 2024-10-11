@@ -1,0 +1,66 @@
+[
+  {
+    "name": "No.16",
+    "image": "/no16.jpg",
+    "flavorProfile": "高粱酒 / パイナップル / 桃",
+    "storyBehind": "トロピカルフレーバーの素晴らしい組み合わせ。",
+    "price": "360"
+  },
+  {
+    "name": "Miss 56",
+    "image": "/miss56.jpg",
+    "flavorProfile": "柑橘 / ライチ / 桃",
+    "storyBehind": "さわやかなフルーティーな体験。",
+    "price": "320"
+  },
+  {
+    "name": "The Gentleman",
+    "image": "/gentleMan.jpg",
+    "flavorProfile": "高粱酒 / 柑橘 / ローズマリー",
+    "storyBehind": "クラシックでエレガントなブレンドにインスパイアされたカクテル。",
+    "price": "360"
+  },
+  {
+    "name": "Rouge of Yanan",
+    "image": "/rougeOfYanan.jpg",
+    "flavorProfile": "高粱酒 / 柑橘 / キニーネ",
+    "storyBehind": "さわやかでありながらわずかに苦味を感じるブレンド。",
+    "price": "360"
+  },
+  {
+    "name": "Wendy’s Ex",
+    "image": "/wendysEx.jpg",
+    "flavorProfile": "アールグレイウォッカ / プラム / トニックウォーター",
+    "storyBehind": "お茶ベースのカクテルのユニークなひねり。",
+    "price": "320"
+  },
+
+  {
+    "name": "Sigur Eyes",
+    "image": "/sigurEyes.jpg",
+    "flavorProfile": "ラム / 桃 / パイナップル",
+    "storyBehind": "魅惑的なトロピカルな逃避。",
+    "price": "340"
+  },
+  {
+    "name": "Bloom Brush",
+    "image": "/bloomBrush.jpg",
+    "flavorProfile": "ぶどう / ベリー / パイナップル（ノンアルコール）",
+    "storyBehind": "活気に満ちたフルーツフレーバーの楽しみ。",
+    "price": "260"
+  },
+  {
+    "name": "Bubbles",
+    "image": "/bubbles.jpg",
+    "flavorProfile": "ぶどう酢 / ハチミツ / 炭酸水（ノンアルコール）",
+    "storyBehind": "甘くて泡立つ体験。",
+    "price": "220"
+  },
+  {
+    "name": "Sober Diablo",
+    "image": "/soberDiablo.jpg",
+    "flavorProfile": "脱アルコールワイン / シナモン / ジンジャーエール（ノンアルコール）",
+    "storyBehind": "スパイシーなフレーバーの力強いブレンド。",
+    "price": "300"
+  }
+]
