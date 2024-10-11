@@ -21,6 +21,8 @@
 
         .language-container {
             text-align: center;
+            width: 90%; /* Make the container flexible */
+            max-width: 400px; /* Limit the container width */
         }
 
         .logo-img {
@@ -37,17 +39,19 @@
 
         .language-buttons {
             display: flex;
-            justify-content: center;
-            gap: 20px; /* Add space between buttons */
+            flex-direction: column; /* Stack buttons vertically on small screens */
+            gap: 15px; /* Add space between buttons */
+            align-items: center; /* Center align buttons */
         }
 
         .language-button {
-            display: inline-flex;
+            display: flex;
             justify-content: center;
             align-items: center;
             padding: 15px;
-            width: 200px; /* Set a fixed width */
-            height: 60px; /* Set a fixed height */
+            width: 100%; /* Make the button take full width of container */
+            max-width: 300px; /* Limit the max width of the buttons */
+            height: 60px;
             border: 2px solid #C93E2E;
             border-radius: 10px;
             background-color: white;
@@ -60,6 +64,18 @@
         .language-button:hover {
             background-color: #C93E2E;
             color: white;
+        }
+
+        /* Responsive adjustments */
+        @media (max-width: 768px) {
+            h1 {
+                font-size: 1.5em;
+            }
+
+            .language-button {
+                font-size: 1em;
+                height: 50px; /* Reduce button height on smaller screens */
+            }
         }
     </style>
 </head>
