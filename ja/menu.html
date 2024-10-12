@@ -29,5 +29,15 @@
     </footer>
 
     <script src="./js/menu-script.js"></script>
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            const images = document.querySelectorAll("img");
+            images.forEach(img => {
+                img.onerror = function() {
+                    this.src = 'img/underConstruction.jpg';
+                };
+            });
+        });
+    </script>
 </body>
 </html>

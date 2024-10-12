@@ -4,7 +4,7 @@ function createCocktailGallery(cocktails) {
     const cocktailDiv = document.createElement("div");
     cocktailDiv.className = "cocktail-item";
     cocktailDiv.innerHTML = `
-          <img src="img/${cocktail.image}" alt="${cocktail.name}">
+          <img src="img/${cocktail.image}" alt="${cocktail.name}" onerror="this.src='img/underConstruction.jpg'">
           <h2>${cocktail.name}</h2>
           <p>${cocktail.flavorProfile}</p>
       `;
