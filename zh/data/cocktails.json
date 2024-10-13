@@ -24,21 +24,21 @@
     "name": "神秘香水",
     "image": "/perfume.jpg",
     "flavorProfile": "波本 / 深色莓果 / 薄荷",
-    "storyBehind": "",
+    "storyBehind": "波本為基底，酸甜的莓果風味，搭配薄荷葉裝飾點綴。",
     "price": "320"
   },
   {
     "name": "Wendy’s Ex",
     "image": "/wendysEx.jpg",
-    "flavorProfile": "Earl Grey Vodka / Plum / Tonic Water",
-    "storyBehind": "A unique twist on a tea-based cocktail.",
+    "flavorProfile": "伯爵茶伏特加 / 蜜李 / 通寧水",
+    "storyBehind": "融合伯爵茶與蜜裡的酸甜口感，搭配氣泡的輕盈感受。",
     "price": "320"
   },
 
   {
     "name": "Sigur Eyes",
     "image": "/sigurEyes.jpg",
-    "flavorProfile": "Rum / Peach / Pineapple",
+    "flavorProfile": "蘭姆酒 / 水蜜桃 / 鳳梨",
     "storyBehind": "An alluring tropical escape.",
     "price": "340"
   },
