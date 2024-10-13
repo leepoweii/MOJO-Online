@@ -2,23 +2,30 @@
   {
     "name": "No.16",
     "image": "/no16.jpg",
-    "flavorProfile": "Kaoliang / Pineapple / Peach",
-    "storyBehind": "A delightful combination of tropical flavors.",
+    "flavorProfile": "高粱麴香/ 水蜜桃/ 鳳梨",
+    "storyBehind": "奔放的水蜜桃與鳳梨的果香，氣息回吐時候，會有溫和高粱的麴香，適合想要嘗試高粱但又擔心味道太強的客人。",
     "price": "360"
   },
   {
-    "name": "Miss 56",
-    "image": "/miss56.jpg",
-    "flavorProfile": "Citrus / Lychee / Peach",
-    "storyBehind": "A refreshing fruity experience.",
-    "price": "320"
+    "name": "燕南紅",
+    "image": "/rougeOfYanan.jpg",
+    "flavorProfile": "高粱麴香 / 柑橘 / 奎寧",
+    "storyBehind": "口感沉穩，苦甜之中帶點回甘，適合平常習慣純飲烈酒的客人。",
+    "price": "360"
   },
   {
-    "name": "The Gentleman",
+    "name": "謙謙君子",
     "image": "/gentleMan.jpg",
-    "flavorProfile": "Kaoliang / Citrus / Rosemary",
-    "storyBehind": "Inspired by the classic, elegant blend.",
+    "flavorProfile": "高粱麴香 / 柑橘 / 迷迭香",
+    "storyBehind": "以高粱麴香為主，帶有輕微的酸甜感，風味純粹。適合喜愛清晰體驗高粱風味的客人。",
     "price": "360"
+  },
+  {
+    "name": "神秘香水",
+    "image": "/perfume.jpg",
+    "flavorProfile": "波本 / 深色莓果 / 薄荷",
+    "storyBehind": "",
+    "price": "320"
   },
   {
     "name": "Wendy’s Ex",
@@ -27,13 +34,7 @@
     "storyBehind": "A unique twist on a tea-based cocktail.",
     "price": "320"
   },
-  {
-    "name": "Rouge of Yanan",
-    "image": "/rougeOfYanan.jpg",
-    "flavorProfile": "Kaoliang / Citrus / Quinine",
-    "storyBehind": "A refreshing yet slightly bitter blend.",
-    "price": "360"
-  },
+
   {
     "name": "Sigur Eyes",
     "image": "/sigurEyes.jpg",
