@@ -2,64 +2,64 @@
   {
     "name": "No.16",
     "image": "/no16.jpg",
-    "flavorProfile": "Kaoliang / Pineapple / Peach",
-    "storyBehind": "A delightful combination of tropical flavors.",
-    "price": "360"
-  },
-  {
-    "name": "The Gentleman",
-    "image": "/gentleMan.jpg",
-    "flavorProfile": "Kaoliang / Citrus / Rosemary",
-    "storyBehind": "Inspired by the classic, elegant blend.",
+    "flavorProfile": "Kinmen Kaoliang / Peach / Pineapple",
+    "storyBehind": "Bursting peach and pineapple fruit aroma, with a mild kaoliang scent on the exhale. Perfect for customers who want to try kaoliang but are concerned about its strong flavor.",
     "price": "360"
   },
   {
     "name": "Rouge of Yanan",
     "image": "/rougeOfYanan.jpg",
-    "flavorProfile": "Kaoliang / Citrus / Quinine",
-    "storyBehind": "A refreshing yet slightly bitter blend.",
+    "flavorProfile": "Kinmen Kaoliang / Citrus / Quinine",
+    "storyBehind": "A steady, balanced flavor with a blend of bitterness and sweetness, leaving a hint of lingering sweetness. Suitable for customers who are used to drinking strong spirits straight.",
     "price": "360"
   },
   {
-    "name": "Miss 56",
-    "image": "/miss56.jpg",
-    "flavorProfile": "Citrus / Lychee / Peach",
-    "storyBehind": "A refreshing fruity experience.",
+    "name": "Gentleman",
+    "image": "/gentleman.jpg",
+    "flavorProfile": "Kinmen Kaoliang / Citrus / Rosemary",
+    "storyBehind": "Centered on the kaoliang aroma with a light touch of sourness and sweetness, delivering a pure and clear flavor. Ideal for those who enjoy the distinct taste of kaoliang.",
+    "price": "360"
+  },
+  {
+    "name": "Perfume",
+    "image": "/perfume.jpg",
+    "flavorProfile": "Bourbon / Dark Berries / Mint",
+    "storyBehind": "Based on bourbon, featuring the tart and sweet taste of dark berries, garnished with mint leaves.",
     "price": "320"
   },
   {
     "name": "Wendy’s Ex",
     "image": "/wendysEx.jpg",
     "flavorProfile": "Earl Grey Vodka / Plum / Tonic Water",
-    "storyBehind": "A unique twist on a tea-based cocktail.",
+    "storyBehind": "Combines the sweet and sour flavors of Earl Grey tea and plum, with the light, bubbly sensation of tonic water.",
     "price": "320"
   },
   {
     "name": "Sigur Eyes",
     "image": "/sigurEyes.jpg",
     "flavorProfile": "Rum / Peach / Pineapple",
-    "storyBehind": "An alluring tropical escape.",
+    "storyBehind": "A special cocktail favored by a good drinking friend, Cloudy Sea, featuring the fruity sweetness of peach and pineapple. So popular it has earned a place on the menu under the patron’s name.",
     "price": "340"
   },
   {
     "name": "Bloom Brush",
     "image": "/bloomBrush.jpg",
-    "flavorProfile": "Grape / Berries / Pineapple (Non-Alcoholic)",
-    "storyBehind": "A vibrant and fruity delight.",
+    "flavorProfile": "Grape / Dark Berries / Pineapple",
+    "storyBehind": "After thorough shaking, this drink delivers a smooth texture with a sweet and tangy fruit profile.",
     "price": "260"
   },
   {
     "name": "Bubbles",
     "image": "/bubbles.jpg",
-    "flavorProfile": "Grape Vinegar / Honey / Sparkling Water (Non-Alcoholic)",
-    "storyBehind": "A bubbly and sweet experience.",
+    "flavorProfile": "Grape Vinegar / Honey / Sparkling Water",
+    "storyBehind": "A refreshing, sweet and sour sparkling fruit vinegar drink, perfect for rehydration or as a non-alcoholic option.",
     "price": "220"
   },
   {
     "name": "Sober Diablo",
     "image": "/soberDiablo.jpg",
-    "flavorProfile": "De-alcoholized Wine / Cinnamon / Ginger Ale (Non-Alcoholic)",
-    "storyBehind": "A bold blend of spicy flavors.",
+    "flavorProfile": "Non-alcoholic Wine / Non-alcoholic Gin / Ginger Cinnamon",
+    "storyBehind": "A non-alcoholic cocktail made with alcohol-free wine and gin, delivering a similar taste experience to alcoholic drinks.",
     "price": "300"
   }
 ]
