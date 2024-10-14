@@ -1,4 +1,0 @@
-Next
-
-1. Beautify single cocktail page
-2. Change gallery to carousel
