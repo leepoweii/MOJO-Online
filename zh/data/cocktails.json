@@ -45,21 +45,21 @@
   {
     "name": "夢筆生花",
     "image": "/bloomBrush.jpg",
-    "flavorProfile": "葡萄 / 深色莓果 / 鳳梨",
+    "flavorProfile": "葡萄 / 深色莓果 / 鳳梨（無酒精）",
     "storyBehind": "材料經過充分搖盪後，呈現出口感綿密的水果酸甜調飲。",
     "price": "260"
   },
   {
     "name": "水果泡泡",
     "image": "/bubbles.jpg",
-    "flavorProfile": "葡萄醋 / 蜂蜜 / 氣泡水",
+    "flavorProfile": "葡萄醋 / 蜂蜜 / 氣泡水（無酒精）",
     "storyBehind": "酸甜清爽的果醋氣泡飲，解酒止渴都適合。",
     "price": "220"
   },
   {
     "name": "清醒惡魔",
     "image": "/soberDiablo.jpg",
-    "flavorProfile": "脫醇葡萄酒 / 脫醇琴酒 / 薑汁肉桂",
+    "flavorProfile": "脫醇葡萄酒 / 脫醇琴酒 / 薑汁肉桂（無酒精）",
     "storyBehind": "使用脫醇酒款，有酒類風味的無酒精調飲。",
     "price": "300"
   }
