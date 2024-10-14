@@ -2,65 +2,64 @@
   {
     "name": "No.16",
     "image": "/no16.jpg",
-    "flavorProfile": "高粱酒 / パイナップル / 桃",
-    "storyBehind": "トロピカルフレーバーの素晴らしい組み合わせ。",
+    "flavorProfile": "高粱の麴香 / ピーチ / パイナップル",
+    "storyBehind": "弾けるピーチとパイナップルの果実香、息を吐くたびに穏やかな高粱の麴香が感じられます。高粱を試してみたいが、強すぎる味を心配しているお客様におすすめです。",
     "price": "360"
   },
   {
-    "name": "Miss 56",
-    "image": "/miss56.jpg",
-    "flavorProfile": "柑橘 / ライチ / 桃",
-    "storyBehind": "さわやかなフルーティーな体験。",
-    "price": "320"
-  },
-  {
-    "name": "The Gentleman",
-    "image": "/gentleMan.jpg",
-    "flavorProfile": "高粱酒 / 柑橘 / ローズマリー",
-    "storyBehind": "クラシックでエレガントなブレンドにインスパイアされたカクテル。",
-    "price": "360"
-  },
-  {
-    "name": "Rouge of Yanan",
+    "name": "燕南紅",
     "image": "/rougeOfYanan.jpg",
-    "flavorProfile": "高粱酒 / 柑橘 / キニーネ",
-    "storyBehind": "さわやかでありながらわずかに苦味を感じるブレンド。",
+    "flavorProfile": "高粱の麴香 / シトラス / キニーネ",
+    "storyBehind": "渋さと甘さのバランスが取れた落ち着いた味わいで、ほろ苦い中にわずかな甘みが広がります。普段からストレートで強いお酒を飲む方におすすめです。",
     "price": "360"
   },
   {
-    "name": "Wendy’s Ex",
-    "image": "/wendysEx.jpg",
-    "flavorProfile": "アールグレイウォッカ / プラム / トニックウォーター",
-    "storyBehind": "お茶ベースのカクテルのユニークなひねり。",
+    "name": "謙謙君子",
+    "image": "/gentleMan.jpg",
+    "flavorProfile": "高粱の麴香 / シトラス / ローズマリー",
+    "storyBehind": "高粱の麴香をベースに、軽い酸味と甘みが加わり、ピュアな風味が特徴です。高粱の味わいをクリアに楽しみたい方にぴったりです。",
+    "price": "360"
+  },
+  {
+    "name": "神秘香水",
+    "image": "/perfume.jpg",
+    "flavorProfile": "バーボン / ダークベリー / ミント",
+    "storyBehind": "バーボンをベースに、酸味と甘みがあるベリーの風味が特徴で、ミントの葉で飾り付けた一杯です。",
     "price": "320"
   },
-
   {
-    "name": "Sigur Eyes",
+    "name": "溫蒂公主的前任",
+    "image": "/wendysEx.jpg",
+    "flavorProfile": "アールグレイティーボッカ / プラム / トニックウォーター",
+    "storyBehind": "アールグレイティーとプラムの甘酸っぱい味わいがトニックウォーターの軽やかな炭酸と相まって、爽やかな感覚を楽しめます。",
+    "price": "320"
+  },
+  {
+    "name": "夢雲瀚",
     "image": "/sigurEyes.jpg",
-    "flavorProfile": "ラム / 桃 / パイナップル",
-    "storyBehind": "魅惑的なトロピカルな逃避。",
+    "flavorProfile": "ラム / ピーチ / パイナップル",
+    "storyBehind": "常連客である雲瀚の好みの特製カクテルで、ピーチとパイナップルのフルーティーな酸味と甘みが絶妙に融合しています。人気が高く、お客様の名前がメニューに載るほどです。",
     "price": "340"
   },
   {
-    "name": "Bloom Brush",
+    "name": "夢筆生花",
     "image": "/bloomBrush.jpg",
-    "flavorProfile": "ぶどう / ベリー / パイナップル（ノンアルコール）",
-    "storyBehind": "活気に満ちたフルーツフレーバーの楽しみ。",
+    "flavorProfile": "グレープ / ダークベリー / パイナップル",
+    "storyBehind": "材料をしっかりシェイクすることで、濃厚なフルーツの甘酸っぱさが際立つ口当たりの良いドリンクです。",
     "price": "260"
   },
   {
-    "name": "Bubbles",
+    "name": "水果泡泡",
     "image": "/bubbles.jpg",
-    "flavorProfile": "ぶどう酢 / ハチミツ / 炭酸水（ノンアルコール）",
-    "storyBehind": "甘くて泡立つ体験。",
+    "flavorProfile": "グレープビネガー / ハチミツ / 炭酸水",
+    "storyBehind": "酸味と甘味のバランスが取れた、爽やかなフルーツビネガーのスパークリングドリンクで、リフレッシュしたい時やアルコールを控えたい時にぴったりです。",
     "price": "220"
   },
   {
-    "name": "Sober Diablo",
+    "name": "清醒惡魔",
     "image": "/soberDiablo.jpg",
-    "flavorProfile": "脱アルコールワイン / シナモン / ジンジャーエール（ノンアルコール）",
-    "storyBehind": "スパイシーなフレーバーの力強いブレンド。",
+    "flavorProfile": "ノンアルコールワイン / ノンアルコールジン / ジンジャーシナモン",
+    "storyBehind": "ノンアルコールのワインとジンを使用し、アルコール風味を感じさせる無酒精カクテルです。",
     "price": "300"
   }
 ]
