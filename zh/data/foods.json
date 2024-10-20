@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Pumpkin Pie",
+    "description": "A classic Halloween treat made with sweet and spicy pumpkin filling.",
+    "image": "pumpkinPie.jpg"
+  },
+  {
+    "name": "Spooky Wings",
+    "description": "Delicious spicy chicken wings with a Halloween twist.",
+    "image": "spookyWings.jpg"
+  },
+  {
+    "name": "Ghostly Nachos",
+    "description": "Crispy tortilla chips with ghost-shaped cheese and spicy salsa.",
+    "image": "ghostlyNachos.jpg"
+  },
+  {
+    "name": "Eyeball Meatballs",
+    "description": "Juicy meatballs topped with mozzarella 'eyeballs' for a spooky surprise.",
+    "image": "eyeballMeatballs.jpg"
+  }
+]
