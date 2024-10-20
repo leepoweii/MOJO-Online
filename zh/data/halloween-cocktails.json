@@ -1,32 +1,32 @@
 [
   {
-    "name": "Spooky Margarita",
-    "image": "spooky-margarita.jpg",
-    "flavorProfile": "Citrus / Tequila / Spooky Twist"
+    "name": "來杯凍齡茶",
+    "image": "halloDongNing.jpg",
+    "description": "清新的錫蘭紅茶香氣搭配酸甜檸檬，猶如港式涼茶的重現，一口下去彷彿置身於茶餐廳，冰涼解渴，清爽怡人。"
   },
   {
-    "name": "Pumpkin Old Fashioned",
-    "image": "pumpkin-old-fashioned.jpg",
-    "flavorProfile": "Pumpkin / Bourbon / Spices"
+    "name": "不敢嫌您妻",
+    "image": "halloXianNing.jpg",
+    "description": "經典鹹檸七的全新演繹，鹹酸與草本香氣交織，氣泡輕盈刺激味蕾，帶來清新又獨特的口感。"
   },
   {
-    "name": "Spooky Margarita",
-    "image": "spooky-margarita.jpg",
-    "flavorProfile": "Citrus / Tequila / Spooky Twist"
+    "name": "維港迷離夜",
+    "image": "halloWeiGang.jpg",
+    "description": "紅酒與Midori層層疊加，如同維港夜色的燈火輝煌，迷離又繽紛，每一口都能感受到獨特的風情和變化。"
   },
   {
-    "name": "Spooky Margarita",
-    "image": "spooky-margarita.jpg",
-    "flavorProfile": "Citrus / Tequila / Spooky Twist"
+    "name": "冷面辣手探",
+    "image": "halloLengMian.jpg",
+    "description": "辛辣的龍舌蘭碰上黑醋栗的酸甜，再加入肉桂和薑的熱度，彷彿一場驚險刺激的味覺冒險，令人回味無窮。"
   },
   {
-    "name": "Spooky Margarita",
-    "image": "spooky-margarita.jpg",
-    "flavorProfile": "Citrus / Tequila / Spooky Twist"
+    "name": "謙謙斯文仔",
+    "image": "halloSiWen.jpg",
+    "description": "高粱的濃郁中融合紫蘇與柑橘的清新香氣，像一位溫文儒雅的紳士，低調而有深度，韻味十足。"
   },
   {
-    "name": "Spooky Margarita",
-    "image": "spooky-margarita.jpg",
-    "flavorProfile": "Citrus / Tequila / Spooky Twist"
+    "name": "第十六大計",
+    "image": "hallowShiLiu.jpg",
+    "description": "高粱的濃烈巧妙隱藏在水蜜桃和鳳梨的果香之中，如同一場精心策劃的大計劃，層次豐富且充滿驚喜。"
   }
 ]

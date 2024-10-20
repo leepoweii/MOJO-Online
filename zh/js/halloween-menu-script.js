@@ -6,7 +6,7 @@ function createCocktailGallery(cocktails) {
     cocktailDiv.innerHTML = `
           <img src="img/${cocktail.image}" alt="${cocktail.name}" onerror="this.src='img/underConstruction.jpg'">
           <h2>${cocktail.name}</h2>
-          <p>${cocktail.flavorProfile}</p>
+          <p>${cocktail.description}</p>
       `;
     gallery.appendChild(cocktailDiv);
   });
