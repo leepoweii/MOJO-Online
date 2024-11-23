@@ -44,21 +44,21 @@
   {
     "name": "Bloom Brush",
     "image": "/bloomBrush.jpg",
-    "flavorProfile": "ぶどう / ベリー / パイナップル",
+    "flavorProfile": "ぶどう / ベリー / パイナップル (無酒精)",
     "storyBehind": "材料をしっかりとシェイクし、滑らかな口当たりの甘酸っぱいフルーツ調飲み物が完成。",
     "price": "260"
   },
   {
     "name": "Bubbles",
     "image": "/bubbles.jpg",
-    "flavorProfile": "ぶどう酢 / 蜂蜜 / 炭酸水",
+    "flavorProfile": "ぶどう酢 / 蜂蜜 / 炭酸水 (無酒精)",
     "storyBehind": "甘酸っぱく爽やかな果実酢の炭酸飲料で、リフレッシュにも二日酔いにも最適です。",
     "price": "220"
   },
   {
     "name": "Sober Diablo",
     "image": "/soberDiablo.jpg",
-    "flavorProfile": "脱アルコールワイン / シナモン / ジンジャーエール",
+    "flavorProfile": "脱アルコールワイン / シナモン / ジンジャーエール (無酒精)",
     "storyBehind": "脱アルコールワインを使い、アルコール風味を楽しめるノンアルコールドリンク。",
     "price": "300"
   },

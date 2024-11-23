@@ -44,21 +44,21 @@
   {
     "name": "Bloom Brush",
     "image": "/bloomBrush.jpg",
-    "flavorProfile": "Grape / Berry / Pineapple",
+    "flavorProfile": "Grape / Berry / Pineapple (non-alcoholic)",
     "storyBehind": "A smooth fruit blend made by shaking the ingredients vigorously, creating a creamy sweet and sour drink.",
     "price": "260"
   },
   {
     "name": "Bubbles",
     "image": "/bubbles.jpg",
-    "flavorProfile": "Grape Vinegar / Honey / Sparkling Water",
+    "flavorProfile": "Grape Vinegar / Honey / Sparkling Water (non-alcoholic)",
     "storyBehind": "A sweet and sour sparkling fruit vinegar drink, perfect for refreshing or helping with hangovers.",
     "price": "220"
   },
   {
     "name": "Sober Diablo",
     "image": "/soberDiablo.jpg",
-    "flavorProfile": "De-alcoholized Wine / Cinnamon / Ginger Ale",
+    "flavorProfile": "De-alcoholized Wine / Cinnamon / Ginger Ale (non-alcoholic)",
     "storyBehind": "Made with de-alcoholized wines, offering the flavor of alcohol in a non-alcoholic drink.",
     "price": "300"
   },
