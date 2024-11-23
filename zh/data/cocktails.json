@@ -2,65 +2,127 @@
   {
     "name": "No.16",
     "image": "/no16.jpg",
-    "flavorProfile": "高粱麴香/ 水蜜桃/ 鳳梨",
+    "flavorProfile": "高粱/ 鳳梨/ 水蜜桃",
     "storyBehind": "奔放的水蜜桃與鳳梨的果香，氣息回吐時候，會有溫和高粱的麴香，適合想要嘗試高粱但又擔心味道太強的客人。",
-    "price": "360"
-  },
-  {
-    "name": "燕南紅",
-    "image": "/rougeOfYanan.jpg",
-    "flavorProfile": "高粱麴香 / 柑橘 / 奎寧",
-    "storyBehind": "口感沉穩，苦甜之中帶點回甘，適合平常習慣純飲烈酒的客人。",
     "price": "360"
   },
   {
     "name": "謙謙君子",
     "image": "/gentleman.jpg",
-    "flavorProfile": "高粱麴香 / 柑橘 / 迷迭香",
+    "flavorProfile": "高粱/ 柑橘/ 迷迭香",
     "storyBehind": "以高粱麴香為主，帶有輕微的酸甜感，風味純粹。適合喜愛清晰體驗高粱風味的客人。",
-    "price": "360"
+    "price": "320"
   },
   {
-    "name": "神秘香水",
-    "image": "/perfume.jpg",
-    "flavorProfile": "波本 / 深色莓果 / 薄荷",
-    "storyBehind": "波本為基底，酸甜的莓果風味，搭配薄荷葉裝飾點綴。",
-    "price": "320"
+    "name": "燕南紅",
+    "image": "/rougeOfYanan.jpg",
+    "flavorProfile": "高粱/ 柑橘/ 奎寧",
+    "storyBehind": "口感沉穩，苦甜之中帶點回甘，適合平常習慣純飲烈酒的客人。",
+    "price": "360"
   },
   {
     "name": "溫蒂公主的前任",
     "image": "/wendysEx.jpg",
-    "flavorProfile": "伯爵茶伏特加 / 蜜李 / 通寧水",
+    "flavorProfile": "伯爵茶伏特加/ 蜜李/ 通寧水",
     "storyBehind": "融合伯爵茶與蜜裡的酸甜口感，搭配通寧水氣泡的輕盈感受。",
     "price": "320"
   },
-
+  {
+    "name": "神秘香水",
+    "image": "/perfume.jpg",
+    "flavorProfile": "波本/ 藍莓/ 薄荷",
+    "storyBehind": "波本為基底，酸甜的莓果風味，搭配薄荷葉裝飾點綴。",
+    "price": "360"
+  },
   {
     "name": "夢雲瀚",
     "image": "/sigurEyes.jpg",
-    "flavorProfile": "蘭姆酒 / 水蜜桃 / 鳳梨",
+    "flavorProfile": "蘭姆酒/ 水蜜桃/ 鳳梨",
     "storyBehind": "好酒友雲瀚的愛喝特調，水蜜桃鳳梨的水果酸甜味，熱門到酒客之名上了菜單。",
     "price": "340"
   },
   {
     "name": "夢筆生花",
     "image": "/bloomBrush.jpg",
-    "flavorProfile": "葡萄 / 深色莓果 / 鳳梨（無酒精）",
+    "flavorProfile": "葡萄/ 莓果/ 鳳梨",
     "storyBehind": "材料經過充分搖盪後，呈現出口感綿密的水果酸甜調飲。",
     "price": "260"
   },
   {
     "name": "水果泡泡",
     "image": "/bubbles.jpg",
-    "flavorProfile": "葡萄醋 / 蜂蜜 / 氣泡水（無酒精）",
+    "flavorProfile": "葡萄醋/ 蜂蜜/ 氣泡",
     "storyBehind": "酸甜清爽的果醋氣泡飲，解酒止渴都適合。",
     "price": "220"
   },
   {
     "name": "清醒惡魔",
     "image": "/soberDiablo.jpg",
-    "flavorProfile": "脫醇葡萄酒 / 脫醇琴酒 / 薑汁肉桂（無酒精）",
+    "flavorProfile": "脫醇葡萄酒/ 肉桂/ 薑汁汽水",
     "storyBehind": "使用脫醇酒款，有酒類風味的無酒精調飲。",
     "price": "300"
+  },
+  {
+    "name": "純愛古崗",
+    "image": "/pureLoveKK.jpg",
+    "flavorProfile": "萬壽菊/ 茉莉綠茶/ 蜂蜜",
+    "storyBehind": "",
+    "price": "360"
+  },
+  {
+    "name": "鱟裡血",
+    "image": "/holyShit.jpg",
+    "flavorProfile": "煙燻/ 龍膽/ 肉桂/ 蛋白",
+    "storyBehind": "",
+    "price": "380"
+  },
+  {
+    "name": "小鳳出逃",
+    "image": "/runawayPeacock.jpg",
+    "flavorProfile": "葡萄/ 迷迭香/ 洋乳香",
+    "storyBehind": "",
+    "price": "360"
+  },
+  {
+    "name": "毒鼠靈",
+    "image": "/rodenticide1957.jpg",
+    "flavorProfile": "可可/ 芋頭/ 牛奶/ 貢糖",
+    "storyBehind": "",
+    "price": "380"
+  },
+  {
+    "name": "水鬼上岸",
+    "image": "/bloodyCommandos.jpg",
+    "flavorProfile": "番茄/ 烏醋/ 辣椒/ 高粱酒",
+    "storyBehind": "",
+    "price": "380"
+  },
+  {
+    "name": "八六海哩",
+    "image": "/86milesApart.jpg",
+    "flavorProfile": "梅茲卡爾/ 裸麥威士忌/ 鈕扣菇",
+    "storyBehind": "",
+    "price": "360"
+  },
+  {
+    "name": "隨撿隨吃",
+    "image": "/pickAndEat.jpg",
+    "flavorProfile": "薑/ 豆漿/ 杏仁",
+    "storyBehind": "",
+    "price": "360"
+  },
+  {
+    "name": "南洋家書",
+    "image": "/lettersFromNayang.jpg",
+    "flavorProfile": "嶢陽茶/ 波本威士忌",
+    "storyBehind": "",
+    "price": "380"
+  },
+  {
+    "name": "浯聲通訊",
+    "image": "/voicesFromHome.jpg",
+    "flavorProfile": "南洋草本/ 椰子/ 鳳梨",
+    "storyBehind": "",
+    "price": "380"
   }
 ]

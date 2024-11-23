@@ -2,64 +2,127 @@
   {
     "name": "No.16",
     "image": "/no16.jpg",
-    "flavorProfile": "Kinmen Kaoliang / Peach / Pineapple",
-    "storyBehind": "Bursting peach and pineapple fruit aroma, with a mild kaoliang scent on the exhale. Perfect for customers who want to try kaoliang but are concerned about its strong flavor.",
-    "price": "360"
-  },
-  {
-    "name": "Rouge of Yanan",
-    "image": "/rougeOfYanan.jpg",
-    "flavorProfile": "Kinmen Kaoliang / Citrus / Quinine",
-    "storyBehind": "A steady, balanced flavor with a blend of bitterness and sweetness, leaving a hint of lingering sweetness. Suitable for customers who are used to drinking strong spirits straight.",
+    "flavorProfile": "Kaoliang / Pineapple / Peach",
+    "storyBehind": "The bold fragrance of peach and pineapple, with a subtle kaoliang aroma on the exhale, perfect for those who want to try kaoliang but are concerned about its strong flavor.",
     "price": "360"
   },
   {
     "name": "Gentleman",
     "image": "/gentleman.jpg",
-    "flavorProfile": "Kinmen Kaoliang / Citrus / Rosemary",
-    "storyBehind": "Centered on the kaoliang aroma with a light touch of sourness and sweetness, delivering a pure and clear flavor. Ideal for those who enjoy the distinct taste of kaoliang.",
+    "flavorProfile": "Kaoliang / Citrus / Rosemary",
+    "storyBehind": "Kaoliang as the base, with a slight sweet and sour note, pure and clear flavor. Ideal for those who enjoy a clear experience of kaoliang flavor.",
+    "price": "320"
+  },
+  {
+    "name": "Rouge of Yanan",
+    "image": "/rougeOfYanan.jpg",
+    "flavorProfile": "Kaoliang / Citrus / Quinine",
+    "storyBehind": "Smooth and balanced, with a slightly sweet bitterness. Ideal for those who usually enjoy strong spirits.",
     "price": "360"
+  },
+  {
+    "name": "Wendy's Ex",
+    "image": "/wendysEx.jpg",
+    "flavorProfile": "Earl Grey Vodka / Plum / Tonic Water",
+    "storyBehind": "A blend of Earl Grey tea and honey plum, with a light, refreshing tonic water fizz.",
+    "price": "320"
   },
   {
     "name": "Perfume",
     "image": "/perfume.jpg",
-    "flavorProfile": "Bourbon / Dark Berries / Mint",
-    "storyBehind": "Based on bourbon, featuring the tart and sweet taste of dark berries, garnished with mint leaves.",
-    "price": "320"
-  },
-  {
-    "name": "Wendy’s Ex",
-    "image": "/wendysEx.jpg",
-    "flavorProfile": "Earl Grey Vodka / Plum / Tonic Water",
-    "storyBehind": "Combines the sweet and sour flavors of Earl Grey tea and plum, with the light, bubbly sensation of tonic water.",
-    "price": "320"
+    "flavorProfile": "Bourbon / Blueberry / Mint",
+    "storyBehind": "Bourbon base, sweet and sour blueberry flavor, garnished with fresh mint leaves.",
+    "price": "360"
   },
   {
     "name": "Sigur Eyes",
     "image": "/sigurEyes.jpg",
     "flavorProfile": "Rum / Peach / Pineapple",
-    "storyBehind": "A special cocktail favored by a good drinking friend, Cloudy Sea, featuring the fruity sweetness of peach and pineapple. So popular it has earned a place on the menu under the patron’s name.",
+    "storyBehind": "A special drink made by my good friend Yunhan, with the sweet and sour taste of peach and pineapple, so popular it was named after the guest.",
     "price": "340"
   },
   {
     "name": "Bloom Brush",
     "image": "/bloomBrush.jpg",
-    "flavorProfile": "Grape / Dark Berries / Pineapple (Non-Alcoholic)",
-    "storyBehind": "After thorough shaking, this drink delivers a smooth texture with a sweet and tangy fruit profile.",
+    "flavorProfile": "Grape / Berry / Pineapple",
+    "storyBehind": "A smooth fruit blend made by shaking the ingredients vigorously, creating a creamy sweet and sour drink.",
     "price": "260"
   },
   {
     "name": "Bubbles",
     "image": "/bubbles.jpg",
-    "flavorProfile": "Grape Vinegar / Honey / Sparkling Water (Non-Alcoholic)",
-    "storyBehind": "A refreshing, sweet and sour sparkling fruit vinegar drink, perfect for rehydration or as a non-alcoholic option.",
+    "flavorProfile": "Grape Vinegar / Honey / Sparkling Water",
+    "storyBehind": "A sweet and sour sparkling fruit vinegar drink, perfect for refreshing or helping with hangovers.",
     "price": "220"
   },
   {
     "name": "Sober Diablo",
     "image": "/soberDiablo.jpg",
-    "flavorProfile": "Non-alcoholic Wine / Non-alcoholic Gin / Ginger Cinnamon (Non-Alcoholic)",
-    "storyBehind": "A non-alcoholic cocktail made with alcohol-free wine and gin, delivering a similar taste experience to alcoholic drinks.",
+    "flavorProfile": "De-alcoholized Wine / Cinnamon / Ginger Ale",
+    "storyBehind": "Made with de-alcoholized wines, offering the flavor of alcohol in a non-alcoholic drink.",
     "price": "300"
+  },
+  {
+    "name": "Pure Love K.K.",
+    "image": "/pureLoveKK.jpg",
+    "flavorProfile": "Marigold / Jasmine Green Tea / Honey",
+    "storyBehind": "",
+    "price": "360"
+  },
+  {
+    "name": "Holy Shit!",
+    "image": "/holyShit.jpg",
+    "flavorProfile": "Smoked / Gentian / Cinnamon / Egg White",
+    "storyBehind": "",
+    "price": "380"
+  },
+  {
+    "name": "Runaway Peacock",
+    "image": "/runawayPeacock.jpg",
+    "flavorProfile": "Grape / Rosemary / Mastiha",
+    "storyBehind": "",
+    "price": "360"
+  },
+  {
+    "name": "Rodenticide 1957",
+    "image": "/rodenticide1957.jpg",
+    "flavorProfile": "Cocoa / Taro / Milk / Gong-Candy",
+    "storyBehind": "",
+    "price": "380"
+  },
+  {
+    "name": "Bloody Commandos",
+    "image": "/bloodyCommandos.jpg",
+    "flavorProfile": "Tomato / Black Vinegar / Chili / Kaoliang",
+    "storyBehind": "",
+    "price": "380"
+  },
+  {
+    "name": "8.6 Miles Apart",
+    "image": "/86milesApart.jpg",
+    "flavorProfile": "Mezcal / Rye Whiskey / Mushroom",
+    "storyBehind": "",
+    "price": "360"
+  },
+  {
+    "name": "Pick and Eat",
+    "image": "/pickAndEat.jpg",
+    "flavorProfile": "Ginger / Soy Milk / Almond",
+    "storyBehind": "",
+    "price": "360"
+  },
+  {
+    "name": "Letters from Nanyang",
+    "image": "/lettersFromNayang.jpg",
+    "flavorProfile": "Geow Yong Tea / Bourbon Whiskey",
+    "storyBehind": "",
+    "price": "380"
+  },
+  {
+    "name": "Voices from Home",
+    "image": "/voicesFromHome.jpg",
+    "flavorProfile": "Nanyang Herbs / Coconut / Pineapple",
+    "storyBehind": "",
+    "price": "380"
   }
 ]

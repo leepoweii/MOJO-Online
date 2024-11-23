@@ -2,64 +2,127 @@
   {
     "name": "No.16",
     "image": "/no16.jpg",
-    "flavorProfile": "高粱の麴香 / ピーチ / パイナップル",
-    "storyBehind": "弾けるピーチとパイナップルの果実香、息を吐くたびに穏やかな高粱の麴香が感じられます。高粱を試してみたいが、強すぎる味を心配しているお客様におすすめです。",
+    "flavorProfile": "高粱酒 / パイナップル / 桃",
+    "storyBehind": "桃とパイナップルの大胆な香り、吐息の時に優しい高粱の麹の香りが広がり、高粱を試してみたいけれど強すぎる味に不安がある方にぴったりです。",
     "price": "360"
   },
   {
-    "name": "燕南紅",
-    "image": "/rougeOfYanan.jpg",
-    "flavorProfile": "高粱の麴香 / シトラス / キニーネ",
-    "storyBehind": "渋さと甘さのバランスが取れた落ち着いた味わいで、ほろ苦い中にわずかな甘みが広がります。普段からストレートで強いお酒を飲む方におすすめです。",
-    "price": "360"
-  },
-  {
-    "name": "謙謙君子",
+    "name": "Gentleman",
     "image": "/gentleman.jpg",
-    "flavorProfile": "高粱の麴香 / シトラス / ローズマリー",
-    "storyBehind": "高粱の麴香をベースに、軽い酸味と甘みが加わり、ピュアな風味が特徴です。高粱の味わいをクリアに楽しみたい方にぴったりです。",
+    "flavorProfile": "高粱酒 / 柑橘 / ローズマリー",
+    "storyBehind": "高粱をベースに、少しの甘酸っぱい風味が特徴で、純粋でクリアな味わい。高粱の風味を明確に体験したい方に最適です。",
+    "price": "320"
+  },
+  {
+    "name": "Rouge of Yanan",
+    "image": "/rougeOfYanan.jpg",
+    "flavorProfile": "高粱酒 / 柑橘 / キニーネ",
+    "storyBehind": "スムーズでバランスが取れた苦みと甘みが少し感じられ、普段から強いアルコールを好む方に最適です。",
     "price": "360"
   },
   {
-    "name": "神秘香水",
-    "image": "/perfume.jpg",
-    "flavorProfile": "バーボン / ダークベリー / ミント",
-    "storyBehind": "バーボンをベースに、酸味と甘みがあるベリーの風味が特徴で、ミントの葉で飾り付けた一杯です。",
-    "price": "320"
-  },
-  {
-    "name": "溫蒂公主的前任",
+    "name": "Wendy's Ex",
     "image": "/wendysEx.jpg",
-    "flavorProfile": "アールグレイティーボッカ / プラム / トニックウォーター",
-    "storyBehind": "アールグレイティーとプラムの甘酸っぱい味わいがトニックウォーターの軽やかな炭酸と相まって、爽やかな感覚を楽しめます。",
+    "flavorProfile": "アールグレイ・ウォッカ / ハニープラム / トニックウォーター",
+    "storyBehind": "アールグレイ茶とハニープラムをブレンドし、軽やかなトニックウォーターの泡でさっぱりと仕上げました。",
     "price": "320"
   },
   {
-    "name": "夢雲瀚",
+    "name": "Perfume",
+    "image": "/perfume.jpg",
+    "flavorProfile": "バーボン / ブルーベリー / ミント",
+    "storyBehind": "バーボンをベースに、甘酸っぱいブルーベリーの風味とフレッシュなミントの葉を飾りつけました。",
+    "price": "360"
+  },
+  {
+    "name": "Sigur Eyes",
     "image": "/sigurEyes.jpg",
-    "flavorProfile": "ラム / ピーチ / パイナップル",
-    "storyBehind": "常連客である雲瀚の好みの特製カクテルで、ピーチとパイナップルのフルーティーな酸味と甘みが絶妙に融合しています。人気が高く、お客様の名前がメニューに載るほどです。",
+    "flavorProfile": "ラム / 桃 / パイナップル",
+    "storyBehind": "親友ユンハンの大好きな特製ドリンク、桃とパイナップルの甘酸っぱい味わいで、人気があまりに高く、客の名前がメニューに載るほど。",
     "price": "340"
   },
   {
-    "name": "夢筆生花",
+    "name": "Bloom Brush",
     "image": "/bloomBrush.jpg",
-    "flavorProfile": "グレープ / ダークベリー / パイナップル（ノンアルコール）",
-    "storyBehind": "材料をしっかりシェイクすることで、濃厚なフルーツの甘酸っぱさが際立つ口当たりの良いドリンクです。",
+    "flavorProfile": "ぶどう / ベリー / パイナップル",
+    "storyBehind": "材料をしっかりとシェイクし、滑らかな口当たりの甘酸っぱいフルーツ調飲み物が完成。",
     "price": "260"
   },
   {
-    "name": "水果泡泡",
+    "name": "Bubbles",
     "image": "/bubbles.jpg",
-    "flavorProfile": "グレープビネガー / ハチミツ / 炭酸水（ノンアルコール）",
-    "storyBehind": "酸味と甘味のバランスが取れた、爽やかなフルーツビネガーのスパークリングドリンクで、リフレッシュしたい時やアルコールを控えたい時にぴったりです。",
+    "flavorProfile": "ぶどう酢 / 蜂蜜 / 炭酸水",
+    "storyBehind": "甘酸っぱく爽やかな果実酢の炭酸飲料で、リフレッシュにも二日酔いにも最適です。",
     "price": "220"
   },
   {
-    "name": "清醒惡魔",
+    "name": "Sober Diablo",
     "image": "/soberDiablo.jpg",
-    "flavorProfile": "ノンアルコールワイン / ノンアルコールジン / ジンジャーシナモン（ノンアルコール）",
-    "storyBehind": "ノンアルコールのワインとジンを使用し、アルコール風味を感じさせる無酒精カクテルです。",
+    "flavorProfile": "脱アルコールワイン / シナモン / ジンジャーエール",
+    "storyBehind": "脱アルコールワインを使い、アルコール風味を楽しめるノンアルコールドリンク。",
     "price": "300"
+  },
+  {
+    "name": "Pure Love K.K.",
+    "image": "/pureLoveKK.jpg",
+    "flavorProfile": "マリーゴールド / ジャスミングリーンティー / 蜂蜜",
+    "storyBehind": "",
+    "price": "360"
+  },
+  {
+    "name": "Holy Shit!",
+    "image": "/holyShit.jpg",
+    "flavorProfile": "スモーク / ゲンチアン / シナモン / 卵白",
+    "storyBehind": "",
+    "price": "380"
+  },
+  {
+    "name": "Runaway Peacock",
+    "image": "/runawayPeacock.jpg",
+    "flavorProfile": "ぶどう / ローズマリー / イランイラン",
+    "storyBehind": "",
+    "price": "360"
+  },
+  {
+    "name": "Rodenticide 1957",
+    "image": "/rodenticide1957.jpg",
+    "flavorProfile": "ココア / タロイモ / 牛乳 / ライスキャンディ",
+    "storyBehind": "",
+    "price": "380"
+  },
+  {
+    "name": "Bloody Commandos",
+    "image": "/bloodyCommandos.jpg",
+    "flavorProfile": "トマト / バルサミコ酢 / チリ / 高粱酒",
+    "storyBehind": "",
+    "price": "380"
+  },
+  {
+    "name": "8.6 Miles Apart",
+    "image": "/86milesApart.jpg",
+    "flavorProfile": "メスカル / ライウィスキー / ボタンマッシュルーム",
+    "storyBehind": "",
+    "price": "360"
+  },
+  {
+    "name": "Pick and Eat",
+    "image": "/pickAndEat.jpg",
+    "flavorProfile": "ジンジャー / 豆乳 / アーモンド",
+    "storyBehind": "",
+    "price": "360"
+  },
+  {
+    "name": "Letters from Nanyang",
+    "image": "/lettersFromNayang.jpg",
+    "flavorProfile": "嶢陽茶 / バーボンウィスキー",
+    "storyBehind": "",
+    "price": "380"
+  },
+  {
+    "name": "Voices from Home",
+    "image": "/voicesFromHome.jpg",
+    "flavorProfile": "南洋ハーブ / ココナッツ / パイナップル",
+    "storyBehind": "",
+    "price": "380"
   }
 ]
